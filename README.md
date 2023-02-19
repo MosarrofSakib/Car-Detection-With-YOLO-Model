@@ -1,6 +1,6 @@
 # Object Detection With a Pre-trained YOLO Model
 
-This is a project I have done during the coursera 'deep learning spealization' course. This was the final project for CNN(Convolutional Neural Network) course. The pre-trained model weights, images, data and utility functions were provided by the course instructor "Andrew Ng".
+This is a project I have done during the coursera 'deep learning specialization' course. This was the final project for CNN(Convolutional Neural Network) course. The pre-trained model weights, images, data and utility functions were provided by the course instructor "Andrew Ng".
 
 On this project many of the ideas were came from two YOLO model papers: Redmon et al., 2016(https://arxiv.org/abs/1506.02640) and Redmon and Farhadi, 2016(https://arxiv.org/abs/1612.08242).
 
